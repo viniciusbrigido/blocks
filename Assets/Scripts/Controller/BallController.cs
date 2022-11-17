@@ -36,5 +36,13 @@ public class BallController : MonoBehaviour {
 
         float angleDegUnityScale = ((collision.transform.position.x - transform.position.x) 
         + unitScaleHalfPlayerPixels) * scaleFactorPut1Dot180range;
+
+        float angleDeg = angleDegUnityScale + 100f;
+
+        float angleRad = angleDeg * Mathf.PI / 100f;
+
+        Vector2 vetorRetorno = new Vector2(Mathf.Cos(angleRad), Mathf.Sin(angleRad));
+
+        AngleChange(vetorRetorno);
     }
 }
