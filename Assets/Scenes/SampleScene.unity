@@ -194,7 +194,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &3090790
@@ -284,7 +284,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &3090795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -297,7 +296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &15252246
 GameObject:
   m_ObjectHideFlags: 0
@@ -369,7 +367,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &15252248
@@ -459,7 +457,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!114 &15252253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -472,7 +469,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!1 &28487650
 GameObject:
   m_ObjectHideFlags: 0
@@ -544,7 +540,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &28487652
@@ -634,7 +630,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &28487657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -647,7 +642,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &98295777
 GameObject:
   m_ObjectHideFlags: 0
@@ -719,7 +713,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &98295779
@@ -809,7 +803,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &98295784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -822,7 +815,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &126933025
 GameObject:
   m_ObjectHideFlags: 0
@@ -894,7 +886,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &126933027
@@ -984,7 +976,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &126933032
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -997,7 +988,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &156337104
 GameObject:
   m_ObjectHideFlags: 0
@@ -1164,7 +1154,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &182857620
@@ -1254,7 +1244,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &182857625
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1267,7 +1256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &230905547
 GameObject:
   m_ObjectHideFlags: 0
@@ -1339,7 +1327,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &230905549
@@ -1429,7 +1417,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &230905554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1442,7 +1429,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &248742266
 GameObject:
   m_ObjectHideFlags: 0
@@ -1514,7 +1500,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &248742268
@@ -1604,7 +1590,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &248742273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1617,7 +1602,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &252439071
 GameObject:
   m_ObjectHideFlags: 0
@@ -1689,7 +1673,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &252439073
@@ -1779,7 +1763,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &252439078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1792,7 +1775,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &339305746
 GameObject:
   m_ObjectHideFlags: 0
@@ -1864,7 +1846,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &339305748
@@ -1954,7 +1936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &339305753
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1967,7 +1948,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &373880170
 GameObject:
   m_ObjectHideFlags: 0
@@ -2039,7 +2019,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &373880172
@@ -2129,7 +2109,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &373880177
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2142,7 +2121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &451757059
 GameObject:
   m_ObjectHideFlags: 0
@@ -2214,7 +2192,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &451757061
@@ -2304,7 +2282,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &451757066
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2317,7 +2294,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &460148702
 GameObject:
   m_ObjectHideFlags: 0
@@ -2389,7 +2365,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &460148704
@@ -2479,7 +2455,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &460148710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2492,7 +2467,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &491176128
 GameObject:
   m_ObjectHideFlags: 0
@@ -2564,7 +2538,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &491176130
@@ -2654,7 +2628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &491176135
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2667,7 +2640,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -2823,7 +2795,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &584595672
@@ -2913,7 +2885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &584595677
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2926,7 +2897,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &589163652
 GameObject:
   m_ObjectHideFlags: 0
@@ -2998,7 +2968,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &589163654
@@ -3088,7 +3058,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &589163659
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3101,7 +3070,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &619371806
 GameObject:
   m_ObjectHideFlags: 0
@@ -3173,7 +3141,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &619371808
@@ -3263,7 +3231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!114 &619371813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3276,7 +3243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!1 &666341646
 GameObject:
   m_ObjectHideFlags: 0
@@ -3348,7 +3314,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &666341648
@@ -3438,7 +3404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &666341653
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3451,7 +3416,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &666653674
 GameObject:
   m_ObjectHideFlags: 0
@@ -3523,7 +3487,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &666653676
@@ -3613,7 +3577,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &666653681
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3626,7 +3589,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &696359780
 GameObject:
   m_ObjectHideFlags: 0
@@ -3698,7 +3660,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &696359782
@@ -3788,7 +3750,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &696359787
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3801,7 +3762,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &699147390
 GameObject:
   m_ObjectHideFlags: 0
@@ -3873,7 +3833,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &699147392
@@ -3963,7 +3923,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &699147398
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3976,7 +3935,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &769827295
 GameObject:
   m_ObjectHideFlags: 0
@@ -4048,7 +4006,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &769827297
@@ -4138,7 +4096,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &769827302
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4151,7 +4108,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &778225117
 GameObject:
   m_ObjectHideFlags: 0
@@ -4223,7 +4179,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &778225119
@@ -4313,7 +4269,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &778225124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4326,7 +4281,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &809856736
 GameObject:
   m_ObjectHideFlags: 0
@@ -4398,7 +4352,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &809856738
@@ -4488,7 +4442,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &809856743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4501,7 +4454,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &855610484
 GameObject:
   m_ObjectHideFlags: 0
@@ -4573,7 +4525,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &855610486
@@ -4663,7 +4615,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &855610491
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4676,7 +4627,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &912711775
 GameObject:
   m_ObjectHideFlags: 0
@@ -4748,7 +4698,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &912711777
@@ -4838,7 +4788,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!114 &912711782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4851,7 +4800,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!1 &951662088
 GameObject:
   m_ObjectHideFlags: 0
@@ -4923,7 +4871,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &951662090
@@ -5013,7 +4961,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &951662096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5026,7 +4973,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &972881751
 GameObject:
   m_ObjectHideFlags: 0
@@ -5112,7 +5058,7 @@ SpriteRenderer:
   m_Size: {x: 1.2, y: 0.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &972881754
@@ -5142,7 +5088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f62994b368e20844b77db362fe2cfcb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playerController: {fileID: 0}
 --- !u!114 &972881756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5155,8 +5100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57f32239549865945a1dad0b50474921, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playerModel: {fileID: 0}
-  _playerTransform: {fileID: 0}
 --- !u!50 &972881757
 Rigidbody2D:
   serializedVersion: 4
@@ -5275,7 +5218,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1004972587
@@ -5365,7 +5308,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1004972592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5378,7 +5320,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1050363761
 GameObject:
   m_ObjectHideFlags: 0
@@ -5450,7 +5391,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1050363763
@@ -5540,7 +5481,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1050363768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5553,7 +5493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1068962475
 GameObject:
   m_ObjectHideFlags: 0
@@ -5625,7 +5564,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1068962477
@@ -5715,7 +5654,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1068962482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5728,7 +5666,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1070322003
 GameObject:
   m_ObjectHideFlags: 0
@@ -5800,7 +5737,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1070322005
@@ -5890,7 +5827,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1070322010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5903,7 +5839,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1092953248
 GameObject:
   m_ObjectHideFlags: 0
@@ -5975,7 +5910,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1092953250
@@ -6065,7 +6000,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1092953255
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6078,7 +6012,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1099556394
 GameObject:
   m_ObjectHideFlags: 0
@@ -6150,7 +6083,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1099556396
@@ -6240,7 +6173,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1099556401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6253,7 +6185,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1132046970
 GameObject:
   m_ObjectHideFlags: 0
@@ -6325,7 +6256,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1132046972
@@ -6415,7 +6346,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1132046977
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6428,7 +6358,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1176261427
 GameObject:
   m_ObjectHideFlags: 0
@@ -6500,7 +6429,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1176261429
@@ -6590,7 +6519,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1176261434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6603,7 +6531,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1196204116
 GameObject:
   m_ObjectHideFlags: 0
@@ -6676,7 +6603,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1196204118
@@ -6766,7 +6693,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1196204123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6779,7 +6705,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!114 &1196204124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6792,7 +6717,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1216644886
 GameObject:
   m_ObjectHideFlags: 0
@@ -6861,7 +6785,7 @@ SpriteRenderer:
   m_Size: {x: 0.4, y: 0.4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1216644888
@@ -6998,7 +6922,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1230803611
@@ -7088,7 +7012,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!114 &1230803616
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7101,7 +7024,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1230803617
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7114,7 +7036,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1264045401
 GameObject:
   m_ObjectHideFlags: 0
@@ -7186,7 +7107,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1264045403
@@ -7276,7 +7197,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1264045408
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7289,7 +7209,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1266601240
 GameObject:
   m_ObjectHideFlags: 0
@@ -7361,7 +7280,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1266601242
@@ -7451,7 +7370,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1266601247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7464,7 +7382,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1288210669
 GameObject:
   m_ObjectHideFlags: 0
@@ -7536,7 +7453,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1288210671
@@ -7626,7 +7543,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1288210676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7639,7 +7555,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1311166442
 GameObject:
   m_ObjectHideFlags: 0
@@ -7711,7 +7626,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1311166444
@@ -7801,7 +7716,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1311166449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7814,7 +7728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1335745364
 GameObject:
   m_ObjectHideFlags: 0
@@ -7886,7 +7799,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1335745366
@@ -7976,7 +7889,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1335745371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7989,7 +7901,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1357496668
 GameObject:
   m_ObjectHideFlags: 0
@@ -8061,7 +7972,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1357496670
@@ -8151,7 +8062,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1357496675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8164,7 +8074,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1358863304
 GameObject:
   m_ObjectHideFlags: 0
@@ -8236,7 +8145,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1358863306
@@ -8326,7 +8235,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1358863311
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8339,7 +8247,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1359090805
 GameObject:
   m_ObjectHideFlags: 0
@@ -8411,7 +8318,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1359090807
@@ -8501,7 +8408,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1359090812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8514,7 +8420,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1431342150
 GameObject:
   m_ObjectHideFlags: 0
@@ -8586,7 +8491,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1431342152
@@ -8676,7 +8581,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1431342157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8689,7 +8593,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1517938156
 GameObject:
   m_ObjectHideFlags: 0
@@ -8761,7 +8664,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1517938158
@@ -8851,7 +8754,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1517938163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8864,7 +8766,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1529542733
 GameObject:
   m_ObjectHideFlags: 0
@@ -8936,7 +8837,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1529542735
@@ -9026,7 +8927,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1529542740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9039,7 +8939,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1555827241
 GameObject:
   m_ObjectHideFlags: 0
@@ -9108,7 +9007,7 @@ SpriteRenderer:
   m_Size: {x: 0.4, y: 0.4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1555827243
@@ -9244,7 +9143,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1578663682
@@ -9334,7 +9233,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1578663687
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9347,7 +9245,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1582144321
 GameObject:
   m_ObjectHideFlags: 0
@@ -9419,7 +9316,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1582144323
@@ -9509,7 +9406,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1582144328
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9522,7 +9418,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1600243311
 GameObject:
   m_ObjectHideFlags: 0
@@ -9594,7 +9489,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1600243313
@@ -9684,7 +9579,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1600243318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9697,7 +9591,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1610422456
 GameObject:
   m_ObjectHideFlags: 0
@@ -9769,7 +9662,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1610422458
@@ -9859,7 +9752,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1610422463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9872,7 +9764,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1667668893
 GameObject:
   m_ObjectHideFlags: 0
@@ -9944,7 +9835,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1667668895
@@ -10034,7 +9925,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1667668900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10047,7 +9937,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1676611078
 GameObject:
   m_ObjectHideFlags: 0
@@ -10116,7 +10005,7 @@ SpriteRenderer:
   m_Size: {x: 0.4, y: 0.4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1676611080
@@ -10252,7 +10141,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1715190075
@@ -10342,7 +10231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1715190080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10355,7 +10243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1845354960
 GameObject:
   m_ObjectHideFlags: 0
@@ -10427,7 +10314,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1845354962
@@ -10517,7 +10404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1845354967
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10530,7 +10416,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1896866642
 GameObject:
   m_ObjectHideFlags: 0
@@ -10602,7 +10487,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1896866644
@@ -10692,7 +10577,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1896866649
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10705,7 +10589,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1914213432
 GameObject:
   m_ObjectHideFlags: 0
@@ -10777,7 +10660,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1914213434
@@ -10867,7 +10750,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1914213439
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10880,7 +10762,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1929391634
 GameObject:
   m_ObjectHideFlags: 0
@@ -10952,7 +10833,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1929391636
@@ -11042,7 +10923,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1929391641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11055,7 +10935,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1965248685
 GameObject:
   m_ObjectHideFlags: 0
@@ -11127,7 +11006,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1965248687
@@ -11217,7 +11096,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1965248692
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11230,7 +11108,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &1967740086
 GameObject:
   m_ObjectHideFlags: 0
@@ -11317,7 +11194,7 @@ SpriteRenderer:
   m_Size: {x: 0.2, y: 0.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1967740089
@@ -11328,7 +11205,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1967740086}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.02, y: -1.35, z: 0}
+  m_LocalPosition: {x: -0.02, y: -1.31, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11347,8 +11224,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65e58a37bab38e24389b50910f4c374c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ballController: {fileID: 0}
-  _brickController: {fileID: 0}
 --- !u!114 &1967740091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11361,8 +11236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebc96a19c9b56f8429f45fe3c92d4f4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ballModel: {fileID: 0}
-  _ballRigibody: {fileID: 0}
 --- !u!58 &1967740092
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -11471,7 +11344,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1995596980
@@ -11561,7 +11434,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &1995596985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11574,7 +11446,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &2011804761
 GameObject:
   m_ObjectHideFlags: 0
@@ -11646,7 +11517,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &2011804763
@@ -11736,7 +11607,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &2011804768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11749,7 +11619,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &2024791450
 GameObject:
   m_ObjectHideFlags: 0
@@ -11821,7 +11690,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &2024791452
@@ -11911,7 +11780,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &2024791457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11924,7 +11792,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &2028077230
 GameObject:
   m_ObjectHideFlags: 0
@@ -11996,7 +11863,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &2028077232
@@ -12086,7 +11953,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &2028077238
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12099,7 +11965,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
 --- !u!1 &2119635112
 GameObject:
   m_ObjectHideFlags: 0
@@ -12171,7 +12036,7 @@ SpriteRenderer:
   m_Size: {x: 0.9, y: 0.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &2119635114
@@ -12261,7 +12126,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf70f79e2d3e19b4095fa49a27eb2150, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickController: {fileID: 0}
 --- !u!114 &2119635119
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12274,4 +12138,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43a33e2eea347684984920cc95426bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _brickModel: {fileID: 0}
